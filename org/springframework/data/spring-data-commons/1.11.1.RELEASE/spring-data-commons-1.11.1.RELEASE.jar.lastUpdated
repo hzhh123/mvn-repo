@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Mar 06 00:12:18 CST 2017
+https\://repo.spring.io/libs-release/.lastUpdated=1488730338316
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1488730335820
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.data\:spring-data-commons\:jar\:1.11.1.RELEASE from/to central (http\://repo.maven.apache.org/maven2)\: No response received after 60000
